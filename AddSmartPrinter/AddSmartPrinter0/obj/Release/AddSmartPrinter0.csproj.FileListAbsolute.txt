@@ -1,0 +1,14 @@
+C:\Users\tbatson\OneDrive - Paychex\Documents\Visual Studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\bin\Release\AddSmartPrinter0.exe.config
+C:\Users\tbatson\OneDrive - Paychex\Documents\Visual Studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Release\AddSmartPrinter0.AddSmartPrinter.resources
+C:\Users\tbatson\OneDrive - Paychex\Documents\Visual Studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Release\AddSmartPrinter0.Properties.Resources.resources
+C:\Users\tbatson\OneDrive - Paychex\Documents\Visual Studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Release\AddSmartPrinter0.csproj.GenerateResource.Cache
+C:\Users\tbatson\OneDrive - Paychex\Documents\Visual Studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Release\AddSmartPrinter0.exe
+C:\Users\tbatson\OneDrive - Paychex\Documents\Visual Studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Release\AddSmartPrinter0.pdb
+C:\Users\jkoniec1\Documents\addsmartprinterhelper\AddSmartPrinter0\bin\Release\AddSmartPrinter0.exe.config
+C:\Users\jkoniec1\Documents\addsmartprinterhelper\AddSmartPrinter0\obj\Release\AddSmartPrinter0.exe
+C:\Users\jkoniec1\Documents\addsmartprinterhelper\AddSmartPrinter0\obj\Release\AddSmartPrinter0.pdb
+C:\Users\jkoniec1\Documents\addsmartprinterhelper\AddSmartPrinter0\obj\Release\AddSmartPrinter0.csprojResolveAssemblyReference.cache
+C:\Users\jkoniec1\Documents\addsmartprinterhelper\AddSmartPrinter0\obj\Release\AddSmartPrinter0.AddSmartPrinter.resources
+C:\Users\jkoniec1\Documents\addsmartprinterhelper\AddSmartPrinter0\obj\Release\AddSmartPrinter0.Properties.Resources.resources
+C:\Users\jkoniec1\Documents\addsmartprinterhelper\AddSmartPrinter0\obj\Release\AddSmartPrinter0.csproj.GenerateResource.Cache
+C:\Users\tbatson\OneDrive - Paychex\Documents\Visual Studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Release\AddSmartPrinter0.csprojResolveAssemblyReference.cache

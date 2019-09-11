@@ -1,0 +1,10 @@
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\bin\Debug\AddSmartPrinter0.exe.config
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Debug\AddSmartPrinter0.csprojResolveAssemblyReference.cache
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Debug\AddSmartPrinter0.AddSmartPrinter.resources
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Debug\AddSmartPrinter0.Properties.Resources.resources
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Debug\AddSmartPrinter0.csproj.GenerateResource.Cache
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Debug\AddSmartPrinter0.exe
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\AddSmartPrinter0\AddSmartPrinter0\obj\Debug\AddSmartPrinter0.pdb
+C:\Users\tbatson\OneDrive - Paychex\Desktop\Portfolio Repository\AddSmartPrinter0\AddSmartPrinter0\bin\Debug\AddSmartPrinter0.exe.config
+C:\Users\tbatson\OneDrive - Paychex\Desktop\Portfolio Repository\AddSmartPrinter0\AddSmartPrinter0\obj\Debug\AddSmartPrinter0.exe
+C:\Users\tbatson\OneDrive - Paychex\Desktop\Portfolio Repository\AddSmartPrinter0\AddSmartPrinter0\obj\Debug\AddSmartPrinter0.pdb
